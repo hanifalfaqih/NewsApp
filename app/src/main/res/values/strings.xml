@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="text_breaking_news">Breaking News</string>
+    <string name="text_saved_news">Saved News</string>
+    <string name="text_search_news">Search News</string>
+    <string name="title_search">Search</string>
+    <string name="search_hint">Input keyword</string>
+    <string name="text_source">SOURCE</string>
+    <string name="text_title">TITLE</string>
+    <string name="text_description">DESCRIPTION</string>
+    <string name="text_published_at">PUBLISHED AT</string>
+    <string name="tvEmpty">Saved news is empty</string>
+</resources>
